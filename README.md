@@ -32,5 +32,5 @@
 
 [8. 리액트 - API를 활용한 영화소개 페이지]()
 
-##Tolls
+## Tolls
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
