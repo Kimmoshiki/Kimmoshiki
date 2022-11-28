@@ -1,16 +1,29 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:30cfd0,100:330867&height=300&section=header&text=capsule%20render&fontSize=90&fontColor=c3cfe2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:330867&height=250&section=header&text=HyunJi%20KIM&fontSize=90&fontColor=f5f7fa)
 
-##Profile
+# Profile
 
----
+### profile
 
-#profile
+안녕하세요 저는 노력하며 성장하고 있는 개발자입니다.
 
-주저리주러지
+# Skills
 
-##Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
+## Project
+[1. 쑤니디저트 카페 반응형웹]()
+[2. 동물병원 적응형웹]()
+[3. 동서식품 반응형웹]()
+[4. 헤로피커피 인터렉티브 웹]()
+[5. 헤로피커피 리모델링(퍼퓸그라피)]()
+[6. 리액트 - 마켓컬리]()
+[7. 리액트 - 모바일앱(todolist)]()
+[8. 리액트 - API를 활용한 영화소개 페이지]()
 
----
-
+##Tolls
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
