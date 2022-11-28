@@ -1,9 +1,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:330867&height=250&section=header&text=HyunJi%20KIM&fontSize=90&fontColor=f5f7fa)
+<div align="center">
 
 # Profile
 
-### profile
+### my profile :blush:
+
+  안녕하세요~!:wave:
+  
+  
 
 
 
@@ -39,3 +44,5 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+ 
+</div>
