@@ -8,7 +8,7 @@
 ### my profile :blush:
 
   안녕하세요~!:wave:
-  
+  성장하는 개발자 김현지 입니다.:clap:
   
 
 
